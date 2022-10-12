@@ -1,5 +1,7 @@
 
   # Bankist Website #
+  
+This is a project developed based on a Udemy course entitled "The complete JavaScript course". It is a marketing website for a fictional bank for which I have previously created the app - [Bankist App](https://github.com/dariusdinu/Bankist-App). Its intention is a deeper understanding of the DOM, how to manipulate and create different elements and how to set different effects, animations, transitions by combining CSS, HTML and JavaScript throughout a very modern website with a clean and minimal aesthetic.
 
 -----------------------
   ### Things learned ###
